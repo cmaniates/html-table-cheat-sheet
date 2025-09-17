@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica;
+  background-color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  color: navy;
+}
+
+h2 {
+  text-align: center;
+  color: navy;
+}
+
+table {
+  margin: 0 auto;
+  border: 2px solid midnightblue;
+  width: 700px;
+}
+
+thead {
+    background-color: lightsteelblue;
+}
+
+td {
+    border: 1px solid midnightblue;
+    padding: 5px;
+    text-align: center;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
